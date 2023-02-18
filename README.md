@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Olá sou Bryan Abreu, estou estudando Programação  👋
+- Estou começando a estudar Python <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <!--
 **bryanAbreuW/bryanAbreuW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
   
-  src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+ 
 </div>
   
   ##
